@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="create_run_jar" name="Create Runnable Jar for Project JavaSim">
+    <target name="create_run_jar">
+        <jar destfile="/Users/mark/Documents/JavaSim/RaindropRainbow.jar"
+        	manifest="MANIFEST.MF"
+    		filesetmanifest="mergewithoutmain">
+        	<fileset dir="bin"/>
+        	<zipfileset dir="./" includes="info.json" fullpath="info.json" />
+        </jar>
+    </target>
+</project>

@@ -1,0 +1,8 @@
+{
+  "main": "com.marklalor.simulation.RaindropRainbow",
+  "name": "Raindrop Rainbow",
+  "date": "8/14/2015",
+  "author": "Mark Lalor",
+  "version": "1.0",
+  "description": "Demonstrate how light is refracted through a raindrop to form the rainbow optical phenomenon."
+}
