@@ -42,7 +42,7 @@ The current output of the simulation:
 
 ![Example](https://github.com/MarkLalor/RaindropRainbow/blob/master/example.png?raw=true)
 
-A zoomed in version of the bottom 6.5% of the outputted rays is visible in the bottom left.
+A zoomed in version of the bottom 6.5% of the outputted rays is visible in the bottom right.
 
 ## Download
 
