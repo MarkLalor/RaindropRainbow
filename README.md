@@ -1,11 +1,11 @@
 # Table of Contents
-1. [Overview](#Overview)
-2. [Example](#Example)
-3. [Download](#Download)
+1. [Overview](#overview)
+2. [Example](#example)
+3. [Download](#download)
 
 # Raindrop Rainbow
 
-A [JavaSim](http://example.com/ "JavaSim GitHub Repository") simulation demonstrating how light is refracted and reflected by raindrops to form the optical phenomenon we all know and love: the rainbow.
+A [JavaSim](http://github.com/MarkLalor/JavaSim) simulation demonstrating how light is refracted and reflected by raindrops to form the optical phenomenon we all know and love: the rainbow.
 
 ---------------------------------------
 
